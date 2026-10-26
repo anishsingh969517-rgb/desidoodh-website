@@ -1,7 +1,7 @@
 // Desi Doodh website settings
 // IMPORTANT: Replace the sample number below with your WhatsApp number.
 // Use country code + number, digits only. India example: 919876543210
-const WHATSAPP_NUMBER = "910000000000";
+const WHATSAPP_NUMBER = "917607369374";
 
 const menuToggle = document.querySelector(".menu-toggle");
 const navLinks = document.querySelector(".nav-links");
